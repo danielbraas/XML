@@ -6,7 +6,7 @@
 
 <p>
 	This repository will have some code that illustrates how to deal with XML data downloaded from the HMDB website 
-	(<a href="http://www.hmdb.ca/downloads">http://www.hmdb.ca/downloads,/a>)
+	(<a href="http://www.hmdb.ca/downloads">http://www.hmdb.ca/downloads</a>)
 </p>
 <p>
 	The buildHMDB_df shows how to extract various values from HMDB to create a data frame that contains information about 
